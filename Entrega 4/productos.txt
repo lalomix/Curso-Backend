@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Chanchito",
+		"price": "4520",
+		"thumbnail": "http://www.724.cl/papel1.jpg",
+		"id": 1
+	},
+	{
+		"name": "coca cola botella",
+		"price": "1590",
+		"thumbnail": "http://www.724.cl/papel1.jpg",
+		"id": 2
+	}
+]
