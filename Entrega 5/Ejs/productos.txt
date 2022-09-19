@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Uva morada sin pepa 1 kg",
+    "price": "2850",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_uvas-128.png",
+    "id": 1
+  },
+  {
+    "name": "Sandia unidad ",
+    "price": "4200",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_melancia-128.png",
+    "id": 2
+  },
+  {
+    "name": "Manzana roja 1 kg",
+    "price": "1300",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_maca-128.png",
+    "id": 3
+  },
+  {
+    "name": "Frutilla 1 kg",
+    "price": "3000",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_morango-128.png",
+    "id": 4
+  },
+  {
+    "name": "Palta Hass 1 kg",
+    "price": "3450",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_abacate-128.png",
+    "id": 5
+  },
+  {
+    "name": "Piña unidad",
+    "price": "2000",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_abacaxi-128.png",
+    "id": 6
+  },
+  {
+    "name": "Platano 1 kg",
+    "price": "2300",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png",
+    "id": 7
+  }
+  
+]

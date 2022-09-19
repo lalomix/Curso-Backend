@@ -1,0 +1,22 @@
+include partials/header.pug 
+
+body 
+        if productos.length
+            .container
+            h1 Tabla de Productos
+            table.table
+                thead
+                    tr.table-success
+                    th Nombre
+                    th Precio
+                    th Imagen
+                tbody.table-group-divider
+                    each item in productos
+                        tr
+                            td= item.name
+                            td= item.price
+                            td
+                                img(src=item.thumbnail, width="50")
+        else
+            h1 No existen registros que mostrar
+        a.btn.btn-success(href='/') Agregar nuevo Producto
