@@ -1,0 +1,20 @@
+include partials/header.pug 
+
+.container
+  h1 Creaci&oacute;n de Productos 
+  form(action='/productos' method='post')
+    label Nombre:
+    input(name='name')
+    br
+    br
+    label Precio:
+    input(name='price')
+    br
+    br
+    label Thumbnail (url):
+    input(name='thumbnail')
+    br
+    br
+    input(type='submit' value='Agregar')
+  br
+  a.btn.btn-success(href='/productos') Mostrar todos los Productos
