@@ -1,0 +1,14 @@
+[
+  {
+    "userChat": "eduardo@724.cl",
+    "mensajesChat": "hola",
+    "id": 1,
+    "date": "26-09-2022 17:36:24"
+  },
+  {
+    "userChat": "claudio@724.cl",
+    "mensajesChat": "como estas",
+    "id": 2,
+    "date": "26-09-2022 17:37:07"
+  }
+]
